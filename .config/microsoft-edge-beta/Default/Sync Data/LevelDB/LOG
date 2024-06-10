@@ -1,0 +1,6 @@
+2024/06/10-01:43:51.601 3162 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/10-01:43:51.601 3162 Recovering log #32
+2024/06/10-01:43:51.601 3162 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/Sync Data/LevelDB/000032.log 
+2024/06/10-01:56:54.530 3163 Level-0 table #36: started
+2024/06/10-01:56:54.535 3163 Level-0 table #36: 118185 bytes OK
+2024/06/10-01:56:54.540 3163 Delete type=0 #32

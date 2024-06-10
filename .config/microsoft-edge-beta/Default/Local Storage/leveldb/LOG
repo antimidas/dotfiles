@@ -1,0 +1,18 @@
+2024/06/10-01:43:51.605 4 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/10-01:43:51.606 4 Recovering log #25
+2024/06/10-01:43:51.606 4 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/Local Storage/leveldb/000025.log 
+2024/06/10-01:44:45.058 4 Level-0 table #29: started
+2024/06/10-01:44:45.068 4 Level-0 table #29: 196531 bytes OK
+2024/06/10-01:44:45.074 4 Delete type=0 #25
+2024/06/10-02:06:56.915 6 Level-0 table #31: started
+2024/06/10-02:06:56.921 6 Level-0 table #31: 19385 bytes OK
+2024/06/10-02:06:56.926 6 Delete type=0 #28
+2024/06/10-02:06:56.927 6 Compacting 4@0 + 1@1 files
+2024/06/10-02:06:56.937 6 Generated table #32@0: 306 keys, 340042 bytes
+2024/06/10-02:06:56.937 6 Compacted 4@0 + 1@1 files => 340042 bytes
+2024/06/10-02:06:56.943 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/10-02:06:56.943 6 Delete type=2 #21
+2024/06/10-02:06:56.943 6 Delete type=2 #23
+2024/06/10-02:06:56.943 6 Delete type=2 #26
+2024/06/10-02:06:56.943 6 Delete type=2 #29
+2024/06/10-02:06:56.943 6 Delete type=2 #31

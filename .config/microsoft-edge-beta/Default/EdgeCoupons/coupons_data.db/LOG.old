@@ -1,0 +1,6 @@
+2024/06/10-01:13:52.749 7b7 Reusing MANIFEST /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/06/10-01:13:52.750 7b7 Recovering log #48
+2024/06/10-01:13:52.750 7b7 Reusing old log /home/anti/.config/microsoft-edge-beta/Default/EdgeCoupons/coupons_data.db/000048.log 
+2024/06/10-01:13:53.842 7b8 Level-0 table #52: started
+2024/06/10-01:13:53.849 7b8 Level-0 table #52: 855676 bytes OK
+2024/06/10-01:13:53.854 7b8 Delete type=0 #48
